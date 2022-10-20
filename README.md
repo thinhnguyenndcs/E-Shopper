@@ -1,2 +1,2 @@
-# Website bán quần ắo E-Shopper
+# Website bán quần áo E-Shopper
 Sử dụng công nghệ HTML, CSS và PHP
